@@ -1,6 +1,6 @@
 # 최중재 👨🏻‍💻 프론트엔드 개발자. Jungjae Choi 👨🏻‍💻 Frontend Developer.
 [![Blog Badge](https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white)](https://iamdoerchoi.github.io/)
-[![Gmail Badge](https://img.shields.io/badge/joong8812@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:joong8812@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/doerchoi.dev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:doerchoi.dev@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/joong8812-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joong8812/)
   
 ## 안녕하세요. Hello. 👋
